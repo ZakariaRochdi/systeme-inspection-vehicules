@@ -1,7 +1,5 @@
 # 🚗 Système d'Inspection Automobile (SIA)
 
-# 🚗 Système d'Inspection Automobile (SIA)
-
 **SIA** est une solution complète de gestion des contrôles techniques des véhicules, conçue avec une architecture microservices moderne. Cette plateforme permet aux centres de contrôle technique de gérer efficacement les rendez-vous, les inspections et la documentation des véhicules, tout en offrant une expérience utilisateur optimale.
 
 ## 📌 Points clés
@@ -117,7 +115,7 @@ graph TD
 
 1. **Cloner le dépôt**
    ```bash
-   git clone https://github.com/Mohamed5027/vehicle-inspection-system.git
+   git clone https://github.com/ZakariaRochdi/systeme-inspection-vehicules.git
    cd vehicle-inspection-system
    ```
 
